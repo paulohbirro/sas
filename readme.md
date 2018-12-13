@@ -1,4 +1,4 @@
-## SAS (Sistema de Avaliação de Soluções)
+## SAS sistema
 
 Aplicação web escrita com PHP 5.5.9 sob Laravel Framework 5.1 (LTS)
 
@@ -98,12 +98,3 @@ Assim o nome do arquivo .tif será gravado no diretório da seguinte forma `{NUM
 
 Obs: Arquivo de configurações exportado da interface da multifuncional para fazer importação: [scanToNet.ucf](scanToNet.ucf)
 
-# Produção
-
-A aplicação está em produção no servidor linux `MGSRVSAS` e utilizando o banco de dados MySQL "sas" no servidor `MGSRVMYSQL01`
-
-Link: [http://sas.sebraemg.com.br](http://sas.sebraemg.com.br)
-
-# Desenvolvedores
-
-Jansen Felipe (jansen.felipe@gmail.com)
