@@ -1,4 +1,4 @@
-## SAS sistema
+## SAS sistema Laravel
 
 Aplicação web escrita com PHP 5.5.9 sob Laravel Framework 5.1 (LTS)
 
